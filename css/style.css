@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.class1{
+    display: flex;
+    width:100px;
+    height: 200px;
+}
+.class2{
+    display: flex;
+    width:10px;
+    height: 200px;
+}
+.class3{
+    display: flex;
+    width:100px;
+    height: 200px;
+}
+img{
+    padding: 10px;
+}
+.images{
+    margin:50px 450px;
+}
+body{
+    background-color: rgb(118, 74, 74);
+}
